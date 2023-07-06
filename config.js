@@ -9,6 +9,7 @@ module.exports = {
 	'radius': '30px',
 	'body': {
 		'block-background': 'colors(white)',
+		'font-color': 'colors(blue)',
 	},
 	'link': {
 		'font-color': 'colors(aquamarine)',
