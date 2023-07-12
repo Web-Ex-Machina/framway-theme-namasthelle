@@ -32,7 +32,7 @@
 	.headerFW__wrapper{background: none;}
 	.headerFW__nav__wrapper{background: none;}
 }
-.headerFW__logo__wrapper {max-height: 140px; max-height: clamp(100px,15vh,140px);}
+.headerFW__logo__wrapper {max-height: 250px; max-height: clamp(100px,35vh,250px);}
 .headerFW a, .headerFW a:focus, .headerFW a:hover{color:$secondary;}
 .headerFW__nav__inline>ul>li>:not(ul){color:inherit;}
 
