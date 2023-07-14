@@ -39,6 +39,8 @@
 
 .bg-blue{color: contrastFW(#fff,color(blue));}
 .bg-secondary{color: contrastFW(#fff,$secondary);}
+.btn-bg-primary:is(.btn-bg-primary){color: contrastFW($secondary,$primary);}
+.btn-bg-mauve:is(.btn-bg-mauve){color: contrastFW($secondary,color(mauve));}
 
 a{
   color: contrastFW(link(font-color),body(background));

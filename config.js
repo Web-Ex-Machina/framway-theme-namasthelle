@@ -12,9 +12,9 @@ module.exports = {
 		'font-color': 'colors(blue)',
 	},
 	'link': {
-		'font-color': 'colors(aquamarine)',
-		'font-color-hover': 'colors(aquamarine)',
-		'font-color-focus': 'colors(aquamarine)',
+		'font-color': 'secondary',
+		'font-color-hover': 'secondary',
+		'font-color-focus': 'secondary',
 		'underline': false,
 		'underline-on-hover': true,
 	},
